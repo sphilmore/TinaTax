@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+tests/test_form.py::test_post_form[row0],tests.test_form,test_post_form[row0],tests\test_form.py,,parametrize,passed,,2.0274804000073345
+tests/test_form.py::test_post_form[row1],tests.test_form,test_post_form[row1],tests\test_form.py,,parametrize,passed,,0.10550999999395572
+tests/test_form.py::test_post_form[row2],tests.test_form,test_post_form[row2],tests\test_form.py,,parametrize,passed,,0.08927630000107456
+tests/test_form.py::test_post_form[row3],tests.test_form,test_post_form[row3],tests\test_form.py,,parametrize,passed,,0.10017209999205079
+tests/test_form.py::test_post_form[row4],tests.test_form,test_post_form[row4],tests\test_form.py,,parametrize,passed,,1.2215922000032151
+tests/test_get_api.py::test_get_api,tests.test_get_api,test_get_api,tests\test_get_api.py,,,passed,,0.04288999999698717
