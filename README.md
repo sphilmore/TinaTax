@@ -1,6 +1,6 @@
 # TinaTax Form Test Suite
 
-Automated tests for the contact form on [tinataxresolution.com](https://www.tinataxresolution.com). Tests are driven by a simple CSV file — no coding required to add or change test cases.
+Automated tests for the contact form on [tinataxresolution.com](https://www.tinataxresolution.com). Tests are driven by a simple CSV file, no coding required to add or change test cases.
 
 ---
 
